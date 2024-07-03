@@ -1,1 +1,0 @@
-# Data too long. Original file: https://github.com/Anjok07/ultimatevocalremovergui/gui_data/constants.py
